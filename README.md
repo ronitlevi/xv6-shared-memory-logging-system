@@ -48,8 +48,10 @@ On top of this mechanism, a concurrent logging system was implemented, where mul
    ```bash
    make qemu
 4. Run the test program:
+    ```bash
    shmem_test
 or:
+ ```bash
    log_test
 
 ## What I Learned
