@@ -55,11 +55,11 @@ or:
   log_test
  ```
 ## What I Learned
-How operating systems manage virtual and physical memory
-How to safely share memory between processes
-Challenges of concurrent programming without locks
-How atomic operations prevent race conditions
-Debugging low-level OS code
+-How operating systems manage virtual and physical memory
+-How to safely share memory between processes
+-Challenges of concurrent programming without locks
+-How atomic operations prevent race conditions
+-Debugging low-level OS code
 
 ## Notes
 This project was developed as part of an Operating Systems course and focuses on extending kernel functionality and building systems on top of it.
