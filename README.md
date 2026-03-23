@@ -50,10 +50,10 @@ On top of this mechanism, a concurrent logging system was implemented, where mul
 4. Run the test program:
     ```bash
    shmem_test
-or:
-  ```bash
-  log_test
- ```
+  or:
+    ```bash
+    log_test
+   ```
 ## What I Learned
 - How operating systems manage virtual and physical memory
 - How to safely share memory between processes
